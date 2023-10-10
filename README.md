@@ -1,5 +1,6 @@
-## EX : 01
-# Developing a Simple Webserver
+# EX : 01 Developing a Simple Webserver
+## Date:09/09/2023
+
 ## AIM:
 To develop a simple webserver to serve html pages.
 
@@ -50,8 +51,9 @@ httpd.serve_forever()
 ```
 
 ## OUTPUT:
-![image](https://github.com/KARPAGAKIRTHIKA/simplewebserver/assets/103020162/0bf10b3e-f18f-4c80-af28-21c2eba126ac)
+![Alt text](<Screenshot 2023-10-10 091309.png>)
 
+![Alt text](<Screenshot 2023-10-10 091854.png>)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
